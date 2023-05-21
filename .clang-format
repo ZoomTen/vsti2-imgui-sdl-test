@@ -1,0 +1,19 @@
+﻿---
+AccessModifierOffset: '-4'
+AlignAfterOpenBracket: Align
+AlignEscapedNewlines: Left
+AlignOperands: 'true'
+AllowShortIfStatementsOnASingleLine: WithoutElse
+ColumnLimit: '80'
+CompactNamespaces: 'true'
+ConstructorInitializerAllOnOneLineOrOnePerLine: 'false'
+ContinuationIndentWidth: '4'
+FixNamespaceComments: 'true'
+IndentCaseLabels: 'true'
+IndentWidth: '4'
+Language: Cpp
+Standard: Auto
+TabWidth: '4'
+UseTab: ForContinuationAndIndentation
+
+...
